@@ -3,8 +3,8 @@ This project performs RFM (Recency, Frequency, Monetary) Analysis on the Zomato 
 What is RFM Analysis?
 RFM Analysis is a customer segmentation technique that considers:
 
-Recency (R) – How recently a customer made a purchase.
-Frequency (F) – How often a customer makes a purchase.
+Recency (R) – How recently a customer made a purchase.\
+Frequency (F) – How often a customer makes a purchase.\
 Monetary (M) – How much a customer spends.
 
 By scoring customers based on these factors, businesses can tailor their marketing efforts more effectively.
