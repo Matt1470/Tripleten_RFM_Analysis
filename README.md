@@ -1,2 +1,1 @@
-# Tripleten_RFM_Analysis
-Tripleten_RFM_Analysis
+This project performs RFM (Recency, Frequency, Monetary) Analysis on the Zomato dataset to segment customers based on their purchasing behavior. The goal is to identify high-value customers, understand customer retention patterns, and optimize marketing strategies.
