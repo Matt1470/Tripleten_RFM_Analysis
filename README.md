@@ -12,17 +12,17 @@ By scoring customers based on these factors, businesses can tailor their marketi
 The Zomato dataset is a well known training dataset so EDA was skipped in this case. 
 
 Steps
-1. RFM Score Calculated
+1. RFM Score Calculated\
 Compute Recency: Days since last purchase\
 Compute Frequency: Total number of purchases\
 Compute Monetary: Total spending per customer
 
-2. Customer Segmentation
-Customers were grouped into segments based on their cumulative RFM score with the relative "bins" based along these lines:
-Greater or equal to 13 are labeled "Champions"
-10 to 12 are "Loyal Customers"
-7 to 9 are "Potential Loyalists"
-4 to 6 are "At-Risk"
+2. Customer Segmentation\
+Customers were grouped into segments based on their cumulative RFM score with the relative "bins" based along these lines:\
+Greater or equal to 13 are labeled "Champions"\
+10 to 12 are "Loyal Customers"\
+7 to 9 are "Potential Loyalists"\
+4 to 6 are "At-Risk"\
 Below 4 customers are considered "Lost"
 
 3. Visualizations
