@@ -25,7 +25,7 @@ Greater or equal to 13 are labeled "Champions"\
 4 to 6 are "At-Risk"\
 Below 4 customers are considered "Lost"
 
-3. Visualizations
+3. Visualizations\
 These included user count visualizations for each segment, heatmaps of the various bins wrt their revenue contribution, monetary score distribution, and others.
 
 Further details on insights can be found in the report with this repository.
