@@ -13,8 +13,8 @@ The Zomato dataset is a well known training dataset so EDA was skipped in this c
 
 Steps
 1. RFM Score Calculated
-Compute Recency: Days since last purchase
-Compute Frequency: Total number of purchases
+Compute Recency: Days since last purchase\
+Compute Frequency: Total number of purchases\
 Compute Monetary: Total spending per customer
 
 2. Customer Segmentation
